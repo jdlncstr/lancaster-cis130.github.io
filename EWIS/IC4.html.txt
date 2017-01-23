@@ -1,0 +1,22 @@
+<|DOCTYPE HTML >
+<html>
+	<head>
+	  <!--
+	    Author: Joshua Lancaster
+	    Date: 01/23/17
+	    Course: CIS130 Sec 103
+	    
+
+	   <title> Eating Well in Season </title>
+	</head>
+	<body>
+	  <h1> Meals </h1>
+	    <p> Meals prepared fresh daily using local ingrediants. </p>
+	  <h1> Sources </h1>
+	    <p> Produce and meats supplied by New England farmers and gardners. </p>
+	  <h1> Schedule </h1>
+	    <p> Deiliveries on your schedul, anytime of the afternoon or evening. </p>
+	    <p> (802) 525-3947
+	    
+	</body>
+</html>
